@@ -30,6 +30,10 @@
     NSLog(@"日了狗了");
     NSLog(@"日了狗了");
     
+    
+    NSLog(@"sun dog");
+    NSLog(@"sun dog");
+    
 }
 
 - (void)didReceiveMemoryWarning {
